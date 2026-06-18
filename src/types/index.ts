@@ -1,5 +1,5 @@
 /**
- * Tipos principales para SeñasApp
+ * Tipos principales para LSch
  */
 
 /** Tipo de cada elemento en la secuencia de reproducción */

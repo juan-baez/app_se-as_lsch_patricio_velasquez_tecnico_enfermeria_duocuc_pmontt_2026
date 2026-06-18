@@ -1,4 +1,4 @@
-# 🤟 SeñasApp — Traductor de Texto a Lengua de Señas
+# 🤟 LSch — Traductor de Texto a Lengua de Señas
 
 Web app mobile-first que convierte texto escrito en reproducción secuencial de videos de lengua de señas.
 

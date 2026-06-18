@@ -103,7 +103,7 @@ function App() {
         <div className="logo">
           <span className="logo-icon">🤟</span>
           <div>
-            <div className="logo-text">SeñasApp</div>
+            <div className="logo-text">LSch</div>
             <div className="logo-subtitle">Traductor de Lengua de Señas</div>
           </div>
         </div>
@@ -200,7 +200,7 @@ function App() {
 
       {/* Footer */}
       <footer className="footer">
-        SeñasApp — Prototipo de traducción a Lengua de Señas
+        LSch — Prototipo de traducción a Lengua de Señas
       </footer>
     </div>
   );
